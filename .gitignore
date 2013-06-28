@@ -1,0 +1,32 @@
+# I don't currently know where these come from
+/.target
+/.cache
+
+# OSX
+.DS_Store
+
+# Emacs backup files
+*~
+\#*\#/bin
+
+# Eclipse
+/.classpath
+/.project
+/.settings
+/work
+/bin
+
+# Play 2.1.1
+logs
+test-reports
+project/project
+project/target
+target
+tmp
+.history
+dist
+/.idea
+/*.iml
+/out
+/.idea_modules
+/RUNNING_PID
